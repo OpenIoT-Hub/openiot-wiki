@@ -14,5 +14,4 @@
 
 希望这样的传统能够一直流传下去，在未来能够帮助更多FZUer实现**飞跃梦想**。
 
-
-<p align="right">Skyer</p>
+<p align="right">OpenIoT Team</p>

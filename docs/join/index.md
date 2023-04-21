@@ -1,4 +1,4 @@
-# 福州大学飞跃手册
+# 福州大学OpenIoT团队
 
 ## 如何加入创作？
 
@@ -28,10 +28,10 @@ FZU飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路�
 
 ## 建议/改进
 
-欢迎邮箱联系，或者在[项目仓库](https://github.com/MIECer/FZU-flying-book/issues)里提issue
+欢迎邮箱联系，或者在[项目仓库](https://github.com/OpenIoT-Hub/openiot-wiki)里提issue
 
 
 
 ## 本站新闻
 
-- 2023年02月： FZU飞跃手册登陆，一起参与建设！@FZUer
+- 2023年04月： OpenIoT-wiki 正式登录！
