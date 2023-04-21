@@ -1,6 +1,6 @@
 # openiot-wiki
 
-## 提交方法：
+### **提交方法：**
 
 ### git clone 到本地
 <pre>
