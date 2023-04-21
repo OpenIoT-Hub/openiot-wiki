@@ -1,6 +1,4 @@
-# FZU-flying-book
-[欢迎来到福州大学飞跃手册！](https://fzu-fly.online)
-
+# openiot-wiki
 
 ## 提交方法：
 
@@ -22,6 +20,5 @@ git push [a new branch]
 <pre>
 mkdocs gh-deploy --force
 </pre>
-
 
 
