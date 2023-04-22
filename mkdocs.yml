@@ -103,8 +103,5 @@ extra_css:
   # - attach/css/no-footer.css # 不使用底部的翻页
   - attach/css/unordered-list-symbols.css # multiplt unordered list symbols
 
-google_analytics: 
-  - 'UA-35232574'
-  - 'auto'
 
-# Lastly Update by Hanlin CAI in 2023/04/21
+# Lastly Update by Hanlin CAI in 2023/04/22
