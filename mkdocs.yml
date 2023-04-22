@@ -99,9 +99,9 @@ extra_javascript:
   - attach/javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js # https://cdn.bytedance.com/?query=mathjax&version=3.2.0
-# extra_css:
-  # - attach/css/no-footer.css # 不使用底部的翻页
-  # - attach/css/unordered-list-symbols.css # multiplt unordered list symbols
+extra_css:
+  - attach/css/no-footer.css # 不使用底部的翻页
+  - attach/css/unordered-list-symbols.css # multiplt unordered list symbols
 
 
 # Lastly Update by Hanlin CAI in 2023/04/22
