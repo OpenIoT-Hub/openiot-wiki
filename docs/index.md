@@ -1,4 +1,4 @@
-# Welcome to OpenIoT
+# Welcome
 
 让我们一起做点有意思的工作吧！
 
