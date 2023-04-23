@@ -1,5 +1,7 @@
 # openiot-wiki
 
+URL: https://fzuiot.site
+
 ### **提交方法：**
 
 ### git clone 到本地
@@ -20,5 +22,3 @@ git push [a new branch]
 <pre>
 mkdocs gh-deploy --force
 </pre>
-
-

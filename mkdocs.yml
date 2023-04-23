@@ -1,8 +1,8 @@
 # [Info]
-site_name: FZU OpenIoT # 左上角标题
+site_name: OpenIoT Document # 左上角标题
 site_url: https://fzuiot.site
 site_author: FZU OpenIoT
-site_description: FZU OpenIoT
+site_description: Wiki for OpenIoT Project
 ## [top-right corner]
 repo_url: https://github.com/OpenIoT-Hub/openiot-wiki # 右上角点击跳转的链接
 repo_name: openiot-wiki # 右上角的名字
@@ -63,10 +63,10 @@ extra:
   social: # icons
     - icon: fontawesome/brands/docker
       link: https://caihanlin.com/
-      name: Website | HanlinCAI
+      name: Website | Hanlin Cai
     - icon: fontawesome/brands/github
-      link: https://github.com/OpenIoT-Hub/openiot-wiki
-      name: GitHub | openiot-wiki
+      link: https://github.com/OpenIoT-Hub/
+      name: GitHub | openiot-hub
  
     
 
@@ -104,4 +104,4 @@ extra_css:
   - attach/css/unordered-list-symbols.css # multiplt unordered list symbols
 
 
-# Lastly Update by Hanlin CAI in 2023/04/22
+# Lastly Update by Hanlin CAI in 2023/04/24
