@@ -1,5 +1,5 @@
 # [Info]
-site_name: OpenIoT Document # 左上角标题
+site_name: OpenIoT Wiki # 左上角标题
 site_url: https://fzuiot.site
 site_author: FZU OpenIoT
 site_description: Wiki for OpenIoT Project
@@ -9,19 +9,16 @@ repo_name: openiot-wiki # 右上角的名字
 
 # [Navigtion] 左侧文章导航
 nav:
-  # - index.md
-  - 作品文档:
+  - 项目文档:
     - wiki/index.md
     
-  - 关于作者:
+  - 团队介绍:
     - about/index.md
-    - 主编作者: about/people.md
-    - 我们的致谢: about/thanks.md
+    - 团队成员: about/people.md
+    - 项目致谢: about/thanks.md
 
   - 加入我们:
     - join/index.md
-    # - 主编作者: about/people.md
-    # - 我们的致谢: about/thanks.md
 
 
 

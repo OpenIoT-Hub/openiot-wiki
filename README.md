@@ -1,7 +1,5 @@
 # openiot-wiki
 
-URL: https://fzuiot.site
-
 ### **提交方法：**
 
 ### git clone 到本地
