@@ -6,4 +6,10 @@
 
 <br>
 
-![system](https://p.ipic.vip/xdywj2.png)
+![flowchart](index.assets/uvk38w.png)
+
+<br>
+
+![system](https://p.ipic.vip/ei16wt.png)
+
+<br>

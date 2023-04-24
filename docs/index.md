@@ -8,7 +8,7 @@
 
 <br>
 
-![system](https://p.ipic.vip/xdywj2.png)
+![system](https://p.ipic.vip/ei16wt.png)
 
 ## 本站新闻
 
