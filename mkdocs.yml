@@ -29,7 +29,7 @@ theme:
   name: material
   palette:
     - scheme: default # 日间模式
-      primary: indigo # 上方的
+      primary: blue # 上方的
       accent: amber # 链接等可交互元件的高亮色
       toggle:
         icon: material/weather-night # 图标
