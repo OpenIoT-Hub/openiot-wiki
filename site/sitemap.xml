@@ -26,12 +26,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://fzuiot.site/join/advice/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fzuiot.site/join/link/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://fzuiot.site/wiki/</loc>
          <lastmod>2023-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://fzuiot.site/wiki/application/</loc>
+         <lastmod>2023-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://fzuiot.site/wiki/design/</loc>
          <lastmod>2023-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>

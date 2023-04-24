@@ -11,6 +11,7 @@ repo_name: openiot-wiki # 右上角的名字
 nav:
   - 项目文档:
     - wiki/index.md
+    - 设计方案: wiki/design.md
     - 应用前景: wiki/application.md
   - 团队介绍:
     - about/index.md
@@ -19,6 +20,8 @@ nav:
 
   - 加入我们:
     - join/index.md
+    - 留言板: join/advice.md
+    - 友情链接: join/link.md
 
 
 
