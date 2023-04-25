@@ -4,5 +4,10 @@
 
 与此同时，软件服务的前后端系统将基于Golang, Kitex以及JavaScript等技术实现，云数据库将基于阿里云平台，使用MySQL与PolarDB等类型搭建；最后，系统交互部分将通过可视化Web端和机器人遥操作，运用WebSocket通信协议与YOLOv5机器视觉算法等技术达成在线检测与作业功能。在实现物联网安全巡检系统的基础开发后，本项目团队将进行真实工业场景的完整模拟和测试，根据实际情况进一步对系统软硬件进行修正与优化，并撰写相关技术文档与用户手册。
 
+<br>
 
+<center>
+  <img src = "https://p.ipic.vip/ag1doi.png" width = 90%>
+</center>
 
+<br>
