@@ -1,16 +1,17 @@
-# OpenIoT 荣誉墙
+# OpenIoT荣誉墙
 
 ## 竞赛荣誉
+
+<div class="third">
+<img src="https://p.ipic.vip/co5wh3.png" width = 49%>
+<img src="https://p.ipic.vip/co5wh3.png" width = 49%>
+</div>
 
 <div class="third">
 <img src="https://p.ipic.vip/uvv02y.png" width = 32%>
 <img src="https://p.ipic.vip/vfphkq.png" width = 31.8%>
 <img src="https://p.ipic.vip/2nefzl.png" width = 33.2%>
 </div>
-
-
-
-
 ## 科研成果
 
 <div class="third">
