@@ -1,7 +1,7 @@
 # [Info]
 site_name: OpenIoT Wiki # 左上角标题
 site_url: https://fzuiot.site
-site_author: FZU OpenIoT
+site_author: FZU OpenIoT Group
 site_description: Wiki for OpenIoT Project
 ## [top-right corner]
 repo_url: https://github.com/OpenIoT-Hub/openiot-wiki # 右上角点击跳转的链接
@@ -15,7 +15,7 @@ nav:
     - 作品创新点: wiki/innovation.md
     - 成果展示: wiki/product.md
     - 应用前景: wiki/application.md
-    # - 项目海报: wiki/poster.md
+    - 项目海报: wiki/poster.md
     
   - 团队介绍:
     - about/index.md
