@@ -8,7 +8,7 @@
 
 <br>
 
-![system](https://p.ipic.vip/ei16wt.png)
+![system](index.assets/system.png)
 
 ## 本站新闻
 
