@@ -4,8 +4,6 @@
 
 ![system](product.assets/system.png)
 
-
-
 ### 智慧物联模块的工作流示意图
 
 ![case](https://p.ipic.vip/62owtk.png)
@@ -24,9 +22,11 @@
 
 ### 软件平台示意图
 
+![software](https://p.ipic.vip/1wxg99.png)
+
+## 软件平台链接
+
 - [数据可视化平台部署链接](http://huaqi.site:8081/)
 - [巡检系统智能管理后台链接](http://47.115.214.116/)
-
-![software](https://p.ipic.vip/1wxg99.png)
 
 <br>
