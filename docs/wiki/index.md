@@ -1,6 +1,6 @@
 # OpenIoT Document
 
-## 智慧社区方案
+## 智慧社区巡检方案
 
 针对目前社区仪器仪表巡检不到位、人工巡检操作困难、高危现场缺乏有效方案等现象导致的居民生活安全隐患，本团队提出一套**“基于智慧物联网的社区安全巡检系统”**。该系统由硬件模块、软件服务和交互系统三大部分组成，主要包括：传感器模块、四足机器人、云端数据库、前端可视化平台、后端支持系统等五个核心组件，旨在解决业界对于高效用、低成本的社区安全巡检需求。
 
@@ -10,7 +10,7 @@
 
 
 
-## 智慧工厂方案
+## 智慧工厂巡检方案
 
 结合智能安全巡检系统，四足机器人能够与多种传感器、相机和通信设备配合使用，实现实时监测、数据采集和远程操作，为工业、社区或仓储等领域的巡检工作提供了更加高效安全的解决方案。这种综合应用有望推动巡检领域的数字化和智能化转型，提升巡检效率，降低人员风险，提高巡检数据的准确性和可靠性，为企业提供更先进的巡检服务，助力业务的持续发展。
 
@@ -18,8 +18,12 @@
 
 <br>
 
-## OpenIoT System Flowchart<br>
+## OpenIoT System 英文版
+
+In response to the current issues of inadequate community instrument inspection, difficulty in manual inspection operations, and the lack of effective solutions for high-risk areas, our team proposes a **"Community Safety Inspection System based on the Internet of Things (IoT)".** This system consists of three major components: hardware modules, software services, and an interaction system. It mainly includes five core components: sensor modules, quadruped robots, cloud-based databases, front-end visualization platforms, and back-end support systems. **The goal is to address the industry's demand for efficient and cost-effective community safety inspections.**
 
 ![openiot-system](index.assets/openiot-system.png)
+
+**Firstly**, the system collects data indicators such as temperature, humidity, or content levels from the field through sensor modules. This data is then transmitted in JSON format to a cloud database for storage and visualization on a web-based dashboard, allowing personnel to monitor the data. **Secondly**, the system utilizes quadruped robots based on machine vision algorithms to extract instrument readings from video streams and provides feedback for manual online assessment, enabling diagnostics of instrument status. **Ultimately**, this achieves an intelligent community inspection workflow of **"sensor module monitoring - robot pre-inspection - manual online assessment - instrument issue diagnosis".**
 
 <br>
