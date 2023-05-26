@@ -1,7 +1,7 @@
 # 项目海报
 
-## 第九届科普创新项目大赛
+## 基于智慧物联网技术的社区安全巡检系统
 
-![作品展板设计稿](poster.assets/yu3i17.jpg)
+![IoT](poster.assets/IoT.png)
 
-<p align="right">制作人：李林师、蔡汉霖</p>
+<p align="right">OpenIoT团队</p>

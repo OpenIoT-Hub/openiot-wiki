@@ -17,3 +17,9 @@
 ![flowchart](index.assets/uvk38w.png)
 
 <br>
+
+## OpenIoT System Flowchart<br>
+
+![openiot-system](index.assets/openiot-system.png)
+
+<br>
