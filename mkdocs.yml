@@ -12,7 +12,8 @@ nav:
   - 项目文档:
     - wiki/index.md
     - 设计方案: wiki/design.md
-    - 成果展示: wiki/product.md
+    - 研发历程: wiki/process.md
+    - 模块展示: wiki/product.md
     - 项目优势: wiki/innovation.md
     - 应用前景: wiki/application.md
     - 项目海报: wiki/poster.md
@@ -31,7 +32,9 @@ nav:
     - 留言板: join/advice.md
     - 友情链接: join/link.md
 
-
+  - English Version:
+    - english/index.md
+    - Contact: english/contact.md
 
 
 # [UI]
